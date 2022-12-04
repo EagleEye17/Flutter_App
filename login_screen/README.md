@@ -1,6 +1,6 @@
-# login_screen
+# Ordering App
 
-A new Flutter project.
+A new Flutter project as a requirement for IT Elective 5 - Multiplatform Application Development
 
 ## Getting Started
 
